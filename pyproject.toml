@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "macos-restore"
+version = "0.1.0"
+description = "Helper to download macos firmware"
+authors = ["Alejandro Visiedo <alejandro.visiedo@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+requests = ">=2.23.0,<2.24.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = ">=8.4.0,<8.5.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

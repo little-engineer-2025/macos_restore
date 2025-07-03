@@ -1,3 +1,5 @@
 .envrc
 *.ipsw
 
+**/__pycache__
+

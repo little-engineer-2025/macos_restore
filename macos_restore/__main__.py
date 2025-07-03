@@ -71,7 +71,7 @@ def download(url: str, sha1: str):
         if result is not None:
             assert result.returncode == 22 or result.returncode == 0, result.output
     else:
-        print('info:{} already exists, if SHA1 mistmatch, delete the file and rerun'.
+        print('info:{} already exists, if SHA1 mismatch, delete the file and rerun'.
               format(output_file))
     if sha1 is not None:
         check_sha1sum(output_file, sha1)

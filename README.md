@@ -1,8 +1,8 @@
 # macOS firmware helper
 
 Meanwhile trying to restore one of my systems, I realized how difficult
-could to access some information and I decided to collect some of them
-on this helper to get the firmware.
+could be to access to some information and I decided to collect some of
+them on this helper to get the firmware.
 
 HTH other people!
 
@@ -10,18 +10,19 @@ Cheers!
 
 ## Getting started
 
-If using [toolbox.sh](github.com/avisiedo/toolbox-sh):
+On **Linux** you can do:
+`curl -L https://github.com/little-engineer-2025/ | /bin/bash - `
+
+On **Windows**: (require python installed)
+
+- Download [this ZIP](#) and unpack it.
+- Run the below:
 
 ```sh
-$ cat > .envrc <<< 'export TOOLBOX="macos_restore"'
-$ direnv allow
-$ toolbox.sh create
-$ toolbox.sh enter
-```
-
-## Download firmware
-
-```sh
-$ python3 -m macos_restore "MacBookPro17,2"
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -U pip
+pip install -r requirements.txt
+python3 -m macos_restore "MacBookPro18,2"
 ```
 

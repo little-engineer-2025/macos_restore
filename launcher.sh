@@ -16,9 +16,14 @@ check_python3() {
     }
 }
 
+clone_repo() {
+    [ -e .git ] || git clone 'https://github.com/little-engineer-2025/macos_restore.git'
+}
+
 main() {
     check_product "$1"
     check_python3
+    clone_repo
     [ -e .venv ] || {
         python3 -m venv .venv
     }

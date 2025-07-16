@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 import os
 import sys
+import logging
+import subprocess
 
 import requests
 import plistlib
-import subprocess
 
 class _:
     UTF_8 = 'utf-8'
@@ -28,17 +29,17 @@ class _:
     ERR_DOWNLOADING = 'Error downloading "{}": expected status_code="{}"'
     ERR_UNEXPECTED = 'unexpected error: {}'
 
-def download_com_apple_macosipsw_xml() -> str:
+def download_metadata() -> str:
     try:
         if not os.path.exists(_.XML_FILENAME):
             # Download from the network
             r = requests.get(_.LINK)
             assert r.status_code == 200, _.ERR_DOWNLOADING.format(_.LINK, r.status_code)
-            with open(_.XML_FILENAME, 'w') as foutput:
+            with open(_.XML_FILENAME, 'wb') as foutput:
                 foutput.write(r.content)
-        with open(_.XML_FILENAME, 'r') as finput:
+        with open(_.XML_FILENAME, 'rb') as finput:
             content = finput.read()
-            return content
+            return content.decode(_.UTF_8)
     except FileNotFoundError as e1:
         print(e1)
         return None
@@ -47,7 +48,7 @@ def download_com_apple_macosipsw_xml() -> str:
         return None
 
 def retrieve_id_from_product(data: dict, product: str) -> str:
-    for key,value in plist['MobileDeviceProductTypes'][_.DFU].items():
+    for key,value in plist[_.MOBILE_DEVICE_PRODUCT_TYPES][_.DFU].items():
         if value == product:
             return key
     return None
@@ -61,25 +62,26 @@ def entry_from_product(data: dict, product: str) -> dict:
 
 def check_sha1sum(filename, sha1):
     sha1_run = subprocess.run([_.CMD_SHA1SUM, filename], capture_output=True)
-    sha1_calculated = sha1_run.stdout.split()[0]
+    sha1_calculated = sha1_run.stdout.decode(_.UTF_8).split()[0]
     assert sha1_calculated == sha1, 'SHA1 mistmatch at "{}": expected "{}"'.format(filename, sha1)
 
 def download(url: str, sha1: str):
     output_file = url.split("/")[-1]
-    if not os.path.exists(output_file):
-        result = subprocess.run([_.CMD_CURL, "-C", "-", "-O", url], stderr=sys.stderr, stdout=sys.stdout, check=True)
-        if result is not None:
-            assert result.returncode == 22 or result.returncode == 0, result.output
-    else:
-        print('info:{} already exists, if SHA1 mismatch, delete the file and rerun'.
-              format(output_file))
+    result = subprocess.run([_.CMD_CURL, "-C", "-", "-O", url], stderr=sys.stderr, stdout=sys.stdout, check=True)
+    if result is not None:
+        assert result.returncode == 22 or result.returncode == 0, result.output
     if sha1 is not None:
         check_sha1sum(output_file, sha1)
 
+def setup_logging():
+    logging
+
 def main():
+    setup_logging()
+    logging.info("macos_restore started")
     assert len(sys.argv) == 2, _.PRODUCT_NAME_MISSED
     product = sys.argv[1]
-    body_text = download_com_apple_macosipsw_xml()
+    body_text = download_metadata()
     plist = plistlib.loads(body_text, fmt=plistlib.FMT_XML)
     data = entry_from_product(plist, product)
     download(data[_.FIRMWARE_URL], data[_.FIRMWARE_SHA1])

@@ -11,7 +11,7 @@ Cheers!
 ## Getting started
 
 On **Linux** you can do:
-`curl -L https://github.com/little-engineer-2025/ | /bin/bash - `
+`curl -L "https://github.com/little-engineer-2025/macos_restore/raw/refs/heads/main/launcher.sh" | /bin/bash - `
 
 On **Windows**: (require python installed)
 

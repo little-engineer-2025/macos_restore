@@ -26,3 +26,26 @@ pip install -r requirements.txt
 python3 -m macos_restore "MacBookPro18,2"
 ```
 
+## Restore by using idevicerestore
+
+Install dependencies:
+
+- Fedora: `sudo dnf install usbmuxd usbutils idevicerestore`
+
+Put your mac in DFU mode: https://support.apple.com/en-us/108900
+
+Start the restore steps:
+
+```sh
+# Start usbmuxd in the background
+$ usbmuxd -f &
+# idevicerestore UniversalMac(...).ipsw
+```
+
+## References
+
+- [github - idevicerestore](https://github.com/libimobiledevice/idevicerestore)
+- [DFU Restore M1, M2 or M3](https://www.youtube.com/watch?v=q-FsB2onSx0).
+- [Tutorial: Mac DFU restore from a Linux machine](https://www.youtube.com/watch?v=IzMa-f6u_YM).
+- [How to revive or restore Mac firmware](https://support.apple.com/en-us/108900).
+

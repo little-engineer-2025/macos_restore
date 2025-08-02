@@ -1,6 +1,7 @@
 .envrc
 *.ipsw
 *.log
+.venv
 
 **/__pycache__
 

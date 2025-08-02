@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import io
 import os
 import sys
 import logging
@@ -29,6 +30,11 @@ class _:
     ERR_DOWNLOADING = 'Error downloading "{}": expected status_code="{}"'
     ERR_UNEXPECTED = 'unexpected error: {}'
 
+def figure_out_url(data, model:str) -> str:
+    assert data is not None, 'data is None'
+    assert model is not None and model != '', 'model is not provided'
+    return data
+
 def download_metadata() -> str:
     try:
         if not os.path.exists(_.XML_FILENAME):
@@ -48,16 +54,30 @@ def download_metadata() -> str:
         return None
 
 def retrieve_id_from_product(data: dict, product: str) -> str:
-    for key,value in plist[_.MOBILE_DEVICE_PRODUCT_TYPES][_.DFU].items():
+    assert data is not None and data != {}, "data must ba an initilized dictionary"
+    assert product is not None and product != 00, "product must be a string with the product name"
+    for key,value in plist['MobileDeviceProductTypes']['DFU'].items():
         if value == product:
             return key
     return None
 
+"""
+def download_com_apple_macosipsw_xml(link: str) -> str:
+    assert link is not None and link != '', "link must be initiailized"
+    r = requests.get(link)
+    assert r.status_code == 200, 'Expected a 200 return code: please check your network'
+    return r.text
+"""
+
 def entry_from_product(data: dict, product: str) -> dict:
+    assert data != None and data != {}, "data should be an initialized and filled dictionary"
+    assert product != None and product != "", "product should be an initialized and filled string value"
+
     dfus = data[_.MOBILE_DEVICE_PRODUCT_TYPES][_.DFU]
     products = data[_.MOBILE_DEVICE_SOFTWARE_VERSION_BY_VERSION]['1'][_.MOBILE_DEVICE_SOFTWARE_VERSIONS]
-    download_id = list(products[product].keys())[0]
-    restore = products[product][download_id][_.RESTORE]
+    restore = None
+    dfu = list(products[product].keys())[0]
+    restore = products[product][dfu][_.RESTORE]
     return restore
 
 def check_sha1sum(filename, sha1):
@@ -66,12 +86,17 @@ def check_sha1sum(filename, sha1):
     assert sha1_calculated == sha1, 'SHA1 mistmatch at "{}": expected "{}"'.format(filename, sha1)
 
 def download(url: str, sha1: str):
+    assert url != '' and url != None, 'url is required'
     output_file = url.split("/")[-1]
+    print(">> Downloading '{}'".format(url))
     result = subprocess.run([_.CMD_CURL, "-C", "-", "-O", url], stderr=sys.stderr, stdout=sys.stdout, check=True)
     if result is not None:
         assert result.returncode == 22 or result.returncode == 0, result.output
     if sha1 is not None:
-        check_sha1sum(output_file, sha1)
+        assert check_sha1sum(output_file, sha1), "error: checking SHA-1"
+    with open(os.path.basename(url), "rb") as fr:
+        result = fr.read()
+    return result
 
 def setup_logging():
     logging
@@ -80,8 +105,15 @@ def main():
     setup_logging()
     logging.info("macos_restore started")
     assert len(sys.argv) == 2, _.ERR_PRODUCT_NAME_MISSED
+
+    # Download and verify metadata
+    logging.info("downloading metadata")
     product = sys.argv[1]
-    body_text = download_metadata()
+    body_text = download(_.LINK, sha1=None)
+
+    logging.info("searching product")
+    assert len(sys.argv) == 2, _.PRODUCT_NAME_MISSED
+
     plist = plistlib.loads(body_text, fmt=plistlib.FMT_XML)
     data = entry_from_product(plist, product)
     download(data[_.FIRMWARE_URL], data[_.FIRMWARE_SHA1])

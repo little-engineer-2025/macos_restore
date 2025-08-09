@@ -32,6 +32,11 @@ Install dependencies:
 
 - Fedora: `sudo dnf install usbmuxd usbutils idevicerestore`
 
+NOTE: You could need to build and install:
+
+- [libtatsu](https://github.com/libimobiledevice/libtatsu).
+- [libirecovery](https://github.com/libimobiledevice/libirecovery).
+
 Put your mac in DFU mode: https://support.apple.com/en-us/108900
 
 Start the restore steps:

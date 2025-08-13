@@ -8,6 +8,8 @@ import subprocess
 import requests
 import plistlib
 
+logger = None
+
 class _:
     UTF_8 = 'utf-8'
     XML_FILENAME = 'com_apple_macOSIPSW.xml'
@@ -54,7 +56,7 @@ def download_metadata() -> str:
         return None
 
 def retrieve_id_from_product(data: dict, product: str) -> str:
-    assert data is not None and data != {}, "data must ba an initilized dictionary"
+    assert data is not None and data != {}, "data must be an initilized dictionary"
     assert product is not None and product != 00, "product must be a string with the product name"
     for key,value in plist['MobileDeviceProductTypes']['DFU'].items():
         if value == product:
@@ -99,7 +101,9 @@ def download(url: str, sha1: str):
     return result
 
 def setup_logging():
-    logging
+    global logger
+    logger = logging.getLogger("macos_restore")
+    logging.basicConfig(filename='macos_restore.log', encoding='utf-8', level=logging.DEBUG)
 
 def main():
     setup_logging()
@@ -107,11 +111,11 @@ def main():
     assert len(sys.argv) == 2, _.ERR_PRODUCT_NAME_MISSED
 
     # Download and verify metadata
-    logging.info("downloading metadata")
+    logger.info("downloading metadata")
     product = sys.argv[1]
     body_text = download(_.LINK, sha1=None)
 
-    logging.info("searching product")
+    logger.info("searching product")
     assert len(sys.argv) == 2, _.PRODUCT_NAME_MISSED
 
     plist = plistlib.loads(body_text, fmt=plistlib.FMT_XML)

@@ -53,4 +53,7 @@ $ usbmuxd -f &
 - [DFU Restore M1, M2 or M3](https://www.youtube.com/watch?v=q-FsB2onSx0).
 - [Tutorial: Mac DFU restore from a Linux machine](https://www.youtube.com/watch?v=IzMa-f6u_YM).
 - [How to revive or restore Mac firmware](https://support.apple.com/en-us/108900).
+- [Asahi macvdmtool](https://reivajpg.github.io/posts/macvdmtool)
+- [Quick steps](https://gist.github.com/idleberg/98cea990efef643423f7d9ed1f298bd2)
+- [DFU Mode in macos VM](https://github.com/ming900518/macOS-Virtual-Machine)
 

@@ -79,7 +79,7 @@ def setup_logging():
 def main():
     setup_logging()
     logging.info("macos_restore started")
-    assert len(sys.argv) == 2, _.PRODUCT_NAME_MISSED
+    assert len(sys.argv) == 2, _.ERR_PRODUCT_NAME_MISSED
     product = sys.argv[1]
     body_text = download_metadata()
     plist = plistlib.loads(body_text, fmt=plistlib.FMT_XML)

@@ -1,0 +1,29 @@
+# https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule
+# https://crontab.io/validator
+---
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *" # At 1:00am every day
+
+jobs:
+  check_ipsw_updates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Check updates
+        run: |
+          curl -o com_apple_macOSIPSW.xml "https://mesu.apple.com/assets/macos/com_apple_macOSIPSW/com_apple_macOSIPSW.xml"
+          git diff --quiet || {
+            curl --request POST \
+              --url https://api.github.com/repos/${{ github.repository }}/issues \
+              --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
+              --header 'content-type: application/json' \
+              --data '{
+                "title": "Automated firmware update: commit: ${{ github.sha }}",
+                "body": "This issue was automatically created by the GitHub Action workflow **${{ github.workflow }}**. \n\n The commit hash was: _${{ github.sha }}_. \n\nTo update run: curl -o com_apple_macOSIPSW.xml "https://mesu.apple.com/assets/macos/com_apple_macOSIPSW/com_apple_macOSIPSW.xml"
+            }' \
+            --fail
+          }

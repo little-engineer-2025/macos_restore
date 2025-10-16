@@ -99,7 +99,9 @@
       <key>738230578</key>
       <string>Mac16,12</string>
       <key>771785010</key>
-	    <string>Mac16,13</string>
+	  <string>Mac16,13</string>
+	  <key>570458434</key>
+      <string>Mac17,2</string>
     </dict>
     <key>Recovery</key>
     <dict>
@@ -196,7 +198,9 @@
       <key>738230578</key>
       <string>Mac16,12</string>
       <key>771785010</key>
-	    <string>Mac16,13</string>
+	  <string>Mac16,13</string>
+	  <key>570458434</key>
+      <string>Mac17,2</string>
     </dict>
   </dict>
   <key>MobileDeviceSoftwareVersionsByVersion</key>
@@ -2099,7 +2103,47 @@
               </dict>
             </dict>
           </dict>
-        </dict>             
+        </dict>
+        <key>Mac17,2</key>
+        <dict>
+          <key>25A8364</key>
+          <dict>
+            <key>Restore</key>
+            <dict>
+              <key>BuildVersion</key>
+              <string>25A8364</string>
+              <key>DocumentationURL</key>
+              <string></string>
+              <key>FirmwareSHA1</key>
+              <string>be38c66a78ae4c31833fd80a02ac097773f453bf</string>
+              <key>FirmwareURL</key>
+              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-49300/3AC98479-C75E-46E8-8AF4-1DDB5EAE564D/UniversalMac_26.0.1_25A8364_Restore.ipsw</string>
+              <key>ProductVersion</key>
+              <string>26.0.1</string>
+            </dict>
+          </dict>
+          <key>Unknown</key>
+          <dict>
+            <key>Universal</key>
+            <dict>
+              <key>Restore</key>
+              <dict>
+                <key>BuildVersion</key>
+                <string>25A8364</string>
+                <key>DocumentationURL</key>
+                <string></string>
+                <key>FirmwareSHA1</key>
+                <string>be38c66a78ae4c31833fd80a02ac097773f453bf</string>
+                <key>FirmwareURL</key>
+                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-49300/3AC98479-C75E-46E8-8AF4-1DDB5EAE564D/UniversalMac_26.0.1_25A8364_Restore.ipsw</string>
+                <key>ProductVersion</key>
+                <string>26.0.1</string>
+                <key>EpochVersion</key>
+                <string>1</string>
+              </dict>
+            </dict>
+          </dict>
+        </dict>  
       </dict>
     </dict>
   </dict>

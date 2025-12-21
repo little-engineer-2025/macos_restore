@@ -1,5 +1,5 @@
-# TODO Update this variable
-MODULE ?= hello_world
+MODULE ?= macos_restore
+PRODUCT ?= MacBookPro18,2
 
 .PHONY: all
 all: format lint doc test
@@ -24,7 +24,7 @@ lint: .venv  ## Run linter on the python code
 
 .PHONY: run
 run: .venv  ## Execute hello_world
-	source .venv/bin/activate; python3 -m "${MODULE}"
+	source .venv/bin/activate; python3 -m "${MODULE}" "$(PRODUCT)"
 
 .PHONY: debug
 debug: .venv  ## Run PDB debugger

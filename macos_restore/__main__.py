@@ -86,6 +86,7 @@ def check_sha1sum(filename, sha1):
     sha1_run = subprocess.run([_.CMD_SHA1SUM, filename], capture_output=True)
     sha1_calculated = sha1_run.stdout.decode(_.UTF_8).split()[0]
     assert sha1_calculated == sha1, 'SHA1 mistmatch at "{}": expected "{}"'.format(filename, sha1)
+    return True
 
 def download(url: str, sha1: str):
     assert url != '' and url != None, 'url is required'
@@ -95,7 +96,7 @@ def download(url: str, sha1: str):
     if result is not None:
         assert result.returncode == 22 or result.returncode == 0, result.output
     if sha1 is not None:
-        assert check_sha1sum(output_file, sha1), "error: checking SHA-1"
+        check_sha1sum(output_file, sha1)
     with open(os.path.basename(url), "rb") as fr:
         result = fr.read()
     return result

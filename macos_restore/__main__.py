@@ -96,6 +96,7 @@ def download(url: str, sha1: str):
     if result is not None:
         assert result.returncode == 22 or result.returncode == 0, result.output
     if sha1 is not None:
+        print(">> Checking hash '{}'".format(sha1))
         check_sha1sum(output_file, sha1)
     with open(os.path.basename(url), "rb") as fr:
         result = fr.read()

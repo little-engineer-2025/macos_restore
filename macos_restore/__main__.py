@@ -7,6 +7,8 @@ import subprocess
 
 import requests
 import plistlib
+import hashlib
+import urllib
 
 logger = None
 
@@ -22,9 +24,6 @@ class _:
     RESTORE = 'Restore'
     FIRMWARE_URL = 'FirmwareURL'
     FIRMWARE_SHA1 = 'FirmwareSHA1'
-
-    CMD_SHA1SUM = 'sha1sum'
-    CMD_CURL = 'curl'
 
     ERR_PRODUCT_NAME_MISSED = 'Product name missed'
     ERR_ARG_NONE = '{} is None'
@@ -83,22 +82,80 @@ def entry_from_product(data: dict, product: str) -> dict:
     return restore
 
 def check_sha1sum(filename, sha1):
-    sha1_run = subprocess.run([_.CMD_SHA1SUM, filename], capture_output=True)
-    sha1_calculated = sha1_run.stdout.decode(_.UTF_8).split()[0]
-    assert sha1_calculated == sha1, 'SHA1 mistmatch at "{}": expected "{}"'.format(filename, sha1)
+    with open(filename, mode='rb') as f:
+        resultado = hashlib.file_digest(f, 'sha1')
+    assert resultado.hexdigest() == sha1, 'SHA1 mistmatch at "{}": expected "{}"'.format(filename, sha1)
     return True
+
+def descargar_con_progreso(url, nombre_archivo):
+    # 1. Verificar si el archivo ya existe para reanudar
+    modo_archivo = "ab"  # 'a'ppend 'b'inary (añadir al final)
+    bytes_locales = 0
+    headers = {}
+
+    if os.path.exists(nombre_archivo):
+        bytes_locales = os.path.getsize(nombre_archivo)
+        # Solicitar solo los bytes restantes
+        headers['Range'] = f'bytes={bytes_locales}-'
+        print(f"Resumiendo descarga desde {bytes_locales} bytes...")
+    else:
+        modo_archivo = "wb" # 'w'rite 'b'inary (crear nuevo)
+
+    req = urllib.request.Request(url, headers=headers)
+
+    try:
+        with urllib.request.urlopen(req) as respuesta:
+            # Obtener el tamaño total (Content-Length del servidor + lo que ya tenemos)
+            cl = respuesta.getheader('Content-Length')
+            total_remoto = int(cl) if cl else 0
+            total_final = total_remoto + bytes_locales
+
+            # Si el servidor ignora el Range y devuelve 200 en vez de 206
+            if respuesta.status == 200 and bytes_locales > 0:
+                print("El servidor no soporta reanudación. Empezando de cero.")
+                modo_archivo = "wb"
+                bytes_locales = 0
+
+            with open(nombre_archivo, modo_archivo) as f:
+                descargado = bytes_locales
+                bloque_size = 8192
+
+                while True:
+                    buffer = respuesta.read(bloque_size)
+                    if not buffer:
+                        break
+
+                    f.write(buffer)
+                    descargado += len(buffer)
+
+                    # 2. Imprimir progreso en la misma línea
+                    if total_final:
+                        porcentaje = (descargado / total_final) * 100
+                        progreso = f"\rDescargando: {porcentaje:.2f}% ({descargado}/{total_final} bytes)"
+                    else:
+                        progreso = f"\rDescargando: {descargado} bytes (tamaño total desconocido)"
+
+                    sys.stdout.write(progreso)
+                    sys.stdout.flush()
+
+        print("\n¡Descarga completada!")
+
+    except urllib.error.HTTPError as e:
+        if e.code == 416: # Range Not Satisfiable (ya está completo)
+            print("\nEl archivo ya parece estar completo.")
+        else:
+            print(f"\nError HTTP: {e.code}")
 
 def download(url: str, sha1: str):
     assert url != '' and url != None, 'url is required'
-    output_file = url.split("/")[-1]
+    output_file = os.path.basename(url)
     print(">> Downloading '{}'".format(url))
-    result = subprocess.run([_.CMD_CURL, "-C", "-", "-O", url], stderr=sys.stderr, stdout=sys.stdout, check=True)
-    if result is not None:
-        assert result.returncode == 22 or result.returncode == 0, result.output
+    descargar_con_progreso(url, output_file)
+
     if sha1 is not None:
         print(">> Checking hash '{}'".format(sha1))
         check_sha1sum(output_file, sha1)
-    with open(os.path.basename(url), "rb") as fr:
+    with open(output_file, "rb") as fr:
         result = fr.read()
     return result
 

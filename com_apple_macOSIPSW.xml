@@ -211,35 +211,35 @@
       <dict>
         <key>VirtualMac2,1</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
         </dict>
         <key>Macmini9,1</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -249,15 +249,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -266,20 +266,20 @@
         </dict>
         <key>MacBookPro17,1</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -289,15 +289,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -306,20 +306,20 @@
         </dict>
         <key>MacBookAir10,1</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -329,15 +329,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -346,20 +346,20 @@
         </dict>
         <key>iMac21,1</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -369,15 +369,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -386,20 +386,20 @@
         </dict>
         <key>iMac21,2</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -409,15 +409,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -426,20 +426,20 @@
         </dict>
         <key>MacBookPro18,1</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -449,15 +449,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -466,20 +466,20 @@
         </dict>
         <key>MacBookPro18,2</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -489,15 +489,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -506,20 +506,20 @@
         </dict>
         <key>MacBookPro18,3</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -529,15 +529,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -546,20 +546,20 @@
         </dict>
         <key>MacBookPro18,4</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -569,15 +569,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -586,20 +586,20 @@
         </dict>
         <key>Mac13,1</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -609,15 +609,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -626,20 +626,20 @@
         </dict>
         <key>Mac13,2</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -649,15 +649,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -666,20 +666,20 @@
         </dict>
         <key>Mac14,2</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -689,15 +689,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -706,20 +706,20 @@
         </dict>
         <key>Mac14,7</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -729,15 +729,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -746,20 +746,20 @@
         </dict>
         <key>Mac14,3</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -769,15 +769,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -786,20 +786,20 @@
         </dict>
         <key>Mac14,5</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -809,15 +809,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -826,20 +826,20 @@
         </dict>
         <key>Mac14,6</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -849,15 +849,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -866,20 +866,20 @@
         </dict>
         <key>Mac14,9</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -889,15 +889,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -906,20 +906,20 @@
         </dict>
         <key>Mac14,10</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -929,15 +929,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -946,20 +946,20 @@
         </dict>
         <key>Mac14,12</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -969,15 +969,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -986,20 +986,20 @@
         </dict>
         <key>Mac14,15</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1009,15 +1009,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1026,20 +1026,20 @@
         </dict>
         <key>Mac14,8</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1049,15 +1049,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1066,20 +1066,20 @@
         </dict>
         <key>Mac14,13</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1089,15 +1089,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1106,20 +1106,20 @@
         </dict>
         <key>Mac14,14</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1129,15 +1129,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1146,20 +1146,20 @@
         </dict>
         <key>Mac15,3</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1169,15 +1169,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1186,20 +1186,20 @@
         </dict>
         <key>Mac15,4</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1209,15 +1209,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1226,20 +1226,20 @@
         </dict>
         <key>Mac15,5</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1249,15 +1249,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1266,20 +1266,20 @@
         </dict>
         <key>Mac15,6</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1289,15 +1289,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1306,20 +1306,20 @@
         </dict>
         <key>Mac15,7</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1329,15 +1329,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1346,20 +1346,20 @@
         </dict>
         <key>Mac15,8</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1369,15 +1369,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1386,20 +1386,20 @@
         </dict>
         <key>Mac15,9</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1409,15 +1409,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1426,20 +1426,20 @@
         </dict>
         <key>Mac15,10</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1449,15 +1449,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1466,20 +1466,20 @@
         </dict>
         <key>Mac15,11</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1489,15 +1489,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1506,20 +1506,20 @@
         </dict>
         <key>Mac15,12</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1529,15 +1529,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1546,20 +1546,20 @@
         </dict>
         <key>Mac15,13</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1569,15 +1569,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1586,20 +1586,20 @@
         </dict>
         <key>Mac16,1</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1609,15 +1609,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1626,20 +1626,20 @@
         </dict>
         <key>Mac16,2</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1649,15 +1649,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1666,20 +1666,20 @@
         </dict>
         <key>Mac16,3</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1689,15 +1689,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1706,20 +1706,20 @@
         </dict>
         <key>Mac16,5</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1729,15 +1729,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1746,20 +1746,20 @@
         </dict>
         <key>Mac16,6</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1769,15 +1769,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1786,20 +1786,20 @@
         </dict>
         <key>Mac16,7</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1809,15 +1809,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1826,20 +1826,20 @@
         </dict>    
         <key>Mac16,8</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1849,15 +1849,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1866,20 +1866,20 @@
         </dict>
         <key>Mac16,10</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1889,15 +1889,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1906,20 +1906,20 @@
         </dict>
         <key>Mac16,11</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1929,15 +1929,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1946,20 +1946,20 @@
         </dict>       
         <key>Mac15,14</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -1969,15 +1969,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -1986,20 +1986,20 @@
         </dict>          
         <key>Mac16,9</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -2009,15 +2009,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -2026,20 +2026,20 @@
         </dict>   
         <key>Mac16,12</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -2049,15 +2049,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -2066,20 +2066,20 @@
         </dict>   
         <key>Mac16,13</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -2089,15 +2089,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>
@@ -2106,20 +2106,20 @@
         </dict>
         <key>Mac17,2</key>
         <dict>
-          <key>25C56</key>
+          <key>25D125</key>
           <dict>
             <key>Restore</key>
             <dict>
               <key>BuildVersion</key>
-              <string>25C56</string>
+              <string>25D125</string>
               <key>DocumentationURL</key>
               <string></string>
               <key>FirmwareSHA1</key>
-              <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+              <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
               <key>FirmwareURL</key>
-              <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+              <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
               <key>ProductVersion</key>
-              <string>26.2</string>
+              <string>26.3</string>
             </dict>
           </dict>
           <key>Unknown</key>
@@ -2129,15 +2129,15 @@
               <key>Restore</key>
               <dict>
                 <key>BuildVersion</key>
-                <string>25C56</string>
+                <string>25D125</string>
                 <key>DocumentationURL</key>
                 <string></string>
                 <key>FirmwareSHA1</key>
-                <string>f034b05ce26abe3c8e5ae8f1f6574119b10cafbe</string>
+                <string>a51bc838db265ca2cfcd68681953b7a375b56fba</string>
                 <key>FirmwareURL</key>
-                <string>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw</string>
+                <string>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw</string>
                 <key>ProductVersion</key>
-                <string>26.2</string>
+                <string>26.3</string>
                 <key>EpochVersion</key>
                 <string>1</string>
               </dict>

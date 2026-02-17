@@ -1,3 +1,5 @@
+> WARNING: This repository is archived. You can follow changes at https://github.com/avisiedo/macos_restore
+
 # macOS firmware helper
 
 Meanwhile trying to restore one of my systems, I realized how difficult
